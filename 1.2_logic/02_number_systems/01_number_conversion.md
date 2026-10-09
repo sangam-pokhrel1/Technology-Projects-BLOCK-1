@@ -5,9 +5,9 @@
    - Hexadecimal = 9C
 
 2. **Convert the binary number 101101 to:**
-   - Decimal
-   - Octal
-   - Hexadecimal
+   - Decimal = 45
+   - Octal = 55
+   - Hexadecimal = 2D
 
 3. **Convert the octal number 745 to:**
    - Decimal
