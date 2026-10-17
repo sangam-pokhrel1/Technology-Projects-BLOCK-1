@@ -7,6 +7,8 @@ Run:
 sudo apt update
 sudo apt install -y build-essential gcc g++ binutils python3 python3-pip gdb
 ```
+<img width="4000" height="1800" alt="IMG_20261016_143523" src="https://github.com/user-attachments/assets/8b87e70f-df60-4f77-af2c-d89ef5e438af" />
+
 Record (screenshot) the outputs of:
 ```bash
 gcc --version
