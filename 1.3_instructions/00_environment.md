@@ -12,7 +12,8 @@ sudo apt install -y build-essential gcc g++ binutils python3 python3-pip gdb
 Record (screenshot) the outputs of:
 ```bash
 gcc --version
-<img width="4000" height="1800" alt="IMG_20261016_143659" src="https://github.com/user-attachments/assets/6b835d90-9625-4b6f-b27b-9596f526cdaa" />
+
+<img width="4000" height="1800" alt="IMG_20261016_143659" src="https://github.com/user-attachments/assets/9eeb380b-d179-40c7-9ca9-ef23108b0620" />
 
 g++ --version
 <img width="4000" height="1800" alt="IMG_20261016_143817" src="https://github.com/user-attachments/assets/31dd8ed3-f89d-4d2e-9fdf-97e8c066276b" />
